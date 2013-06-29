@@ -1,0 +1,17 @@
+{
+  "name": "blockly-js-editor-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "beefy index.js --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/kumavis/node-blockly-js-editor-example.git",
+  "private": true,
+  "dependencies": {
+    "blockly-js-editor": "git://github.com/kumavis/node-blockly-js-editor.git#master"
+  },
+  "author": "kumavis",
+  "license": "BSD"
+}
